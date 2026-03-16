@@ -91,7 +91,7 @@ Features:
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Kasun-Kumara/Kasun-Kumara/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kasun-Kumara/Kasun-Kumara/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
