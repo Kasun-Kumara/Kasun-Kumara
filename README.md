@@ -12,7 +12,7 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kasun-Kumara&color=blueviolet&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -69,11 +69,11 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kasun-Kumara&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Kumara&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Kumara&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -83,7 +83,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kasun-Kumara&theme=tokyo-night"/>
 
 </div>
 
