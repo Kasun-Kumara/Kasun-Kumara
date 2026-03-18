@@ -2,13 +2,13 @@
 
 # KASUN KUMARA
 
-### `Artificial Intelligence Engineer` • `Machine Learning Developer` • `Systems Builder`
+### `AI Engineer` • `DevOps Engineer` • `Full Stack Developer`
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-5f8a66e0-6e45-4a70-b7e1-06e66a7c0b0f.gif" width="600">
 
 <p>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=450&lines=Artificial+Intelligence;Machine+Learning+Engineer;Computer+Vision+Projects;Robotics+and+Automation;Building+The+Future+with+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Engineer;DevOps+%26+Cloud+Systems;Next.js+Full+Stack+Apps;AI+Powered+Products;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
 </a>
 </p>
 
@@ -22,21 +22,24 @@
 
 # 🧠 About Me
 
-I am an **Artificial Intelligence undergraduate at the University of Moratuwa** passionate about building intelligent systems that combine **AI, robotics, and software engineering**.
+I am an **Artificial Intelligence undergraduate at the University of Moratuwa** focused on building **intelligent, scalable systems**.
 
-I enjoy creating **real-world AI systems**, experimenting with **machine learning algorithms**, and building **hardware + software integrated solutions**.
+My work combines:
+- **Artificial Intelligence** (core specialization)
+- **DevOps & Cloud Engineering**
+- **Full Stack Development (Next.js)**
 
-My goal is to become an **AI innovator and entrepreneur**, building powerful intelligent applications for the future.
+I don’t just build models — I build **complete AI-powered systems** that are deployed, automated, and production-ready.
 
 ---
 
 # 🚀 Current Focus
 
-- Deep Learning & Neural Networks  
-- Computer Vision Systems  
-- AI + Robotics Integration  
-- AI Powered Web Applications  
-- Reinforcement Learning Systems  
+- Artificial Intelligence & Deep Learning  
+- DevOps & Cloud Infrastructure  
+- CI/CD Pipeline Automation  
+- Full Stack Development (Next.js)  
+- AI-powered Web Applications  
 
 ---
 
@@ -44,7 +47,7 @@ My goal is to become an **AI innovator and entrepreneur**, building powerful int
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,php,tensorflow,pytorch,git,arduino,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,nextjs,nodejs,tensorflow,pytorch,docker,git,linux,vscode&perline=6" />
 
 </div>
 
@@ -53,17 +56,15 @@ My goal is to become an **AI innovator and entrepreneur**, building powerful int
 # 🧪 Projects
 
 ### 🤖 Smart Scrabble AI System
-AI powered scrabble board using **ESP32 + Computer Vision + Robotic Arm**
+AI-powered Scrabble board using **ESP32 + Computer Vision + Robotics**
 
 Features:
-- Automated word detection using camera
-- AI player that places tiles
-- Automatic scoring
-- Smart tile distribution system
+- Automated word detection
+- AI player (robotic arm)
+- Real-time scoring
+- Intelligent tile system
 
 ---
-
-
 
 # 📈 GitHub Stats
 
@@ -99,23 +100,20 @@ Features:
 
 **University of Moratuwa**
 
-Bachelor of Science (Hons) in **Artificial Intelligence**
+BSc (Hons) in **Artificial Intelligence**
 
 Focused on:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Intelligent Systems
+- Machine Learning & Deep Learning  
+- Systems Design  
+- Cloud & Distributed Systems  
 
 ---
 
 # 🎯 Goals
 
-- Build impactful AI products
-- Launch an AI startup
-- Create intelligent robotics systems
-- Contribute to the future of AI innovation
+- Build scalable AI-powered products  
+- Master DevOps for AI systems  
+- Create real-world intelligent platforms  
 
 ---
 
@@ -127,7 +125,6 @@ Focused on:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
 <a href="mailto:kasunkumarakrk@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -138,6 +135,6 @@ Focused on:
 
 <div align="center">
 
-⚡ **"We don't just build technology — we build the future."**
+⚡ **"I build intelligent systems — from model to deployment."**
 
 </div>
