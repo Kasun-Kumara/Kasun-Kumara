@@ -1,134 +1,101 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+  <img width="100%" alt="welcome to my profile!" src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:4F46E5&height=200&section=header&text=Kasun%20Kumara&fontSize=40&fontColor=ffffff"/>
 </div>
 
-<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
-
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
-
-# 🧠 About Me
-
-I am an **Artificial Intelligence undergraduate at the University of Moratuwa** focused on building **intelligent, scalable systems**.
-
-My work combines:
-- **Artificial Intelligence** (core specialization)
-- **DevOps & Cloud Engineering**
-- **Full Stack Development (Next.js)**
-
-I don’t just build models — I build **complete AI-powered systems** that are deployed, automated, and production-ready.
-
----
-
-# 🚀 Current Focus
-
-- Artificial Intelligence & Deep Learning  
-- DevOps & Cloud Infrastructure  
-- CI/CD Pipeline Automation  
-- Full Stack Development (Next.js)  
-- AI-powered Web Applications  
-
----
-
-# 💻 Tech Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,nextjs,nodejs,tensorflow,pytorch,docker,git,linux,vscode&perline=6" />
-
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer;Robotics+Developer;Full+Stack+Engineer;DevOps+Enthusiast;Building+Intelligent+Systems;Sri+Lanka+🇱🇰"
+      alt="Typing SVG"
+    />
+  </a>
 </div>
 
 ---
 
-# 🧪 Projects
+## 🧠 About Me
 
-### 🤖 Smart Scrabble AI System
-AI-powered Scrabble board using **ESP32 + Computer Vision + Robotics**
-
-Features:
-- Automated word detection
-- AI player (robotic arm)
-- Real-time scoring
-- Intelligent tile system
+- 🎓 BSc (Hons) Artificial Intelligence @ University of Moratuwa  
+- 🤖 Passionate about **AI, Robotics, and Intelligent Systems**  
+- 🛠️ Building real-world projects combining **Computer Vision + ML + Hardware**  
+- 🚀 Interested in **AI-powered startups & scalable systems**  
+- 🇱🇰 Based in Sri Lanka  
 
 ---
 
-# 📈 GitHub Stats
+## ⚙️ Tech Stack
+
+### 👨‍💻 Languages
+- C (Data Structures)
+- Python
+- JavaScript
+
+### 🌐 Web & Frameworks
+- HTML / CSS / JS  
+- Next.js (learning)
+
+### 🧠 AI / ML
+- TensorFlow  
+- PyTorch  
+- Computer Vision  
+
+### ⚡ Systems & Tools
+- Linux  
+- Git & GitHub  
+- Docker (learning)  
+- XAMPP / MySQL  
+
+---
+
+## 🚀 Projects
+
+- 🤖 **AI Smart Scrabble Board**
+  - Computer Vision + AI gameplay + Robotic Arm
+- 🚗 **Self Driving RC Car (Planned)**
+- 🦾 **Gesture Controlled Robotic Arm**
+- ☀️ **Smart Solar Tracking System (ML + IoT)**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kasun-Kumara&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun-Kumara&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Kumara&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kasun-Kumara&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Kumara&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+## 🔥 Activity & Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kasun-Kumara&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=Kasun-Kumara&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## ⚙️ Workflows
 
-![Snake animation](https://github.com/Kasun-Kumara/Kasun-Kumara/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 🧑‍🎓 Education
-
-**University of Moratuwa**
-
-BSc (Hons) in **Artificial Intelligence**
-
-Focused on:
-- Machine Learning & Deep Learning  
-- Systems Design  
-- Cloud & Distributed Systems  
+<a href="#"><img src="https://img.shields.io/badge/CI-Passing-brightgreen" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Build-Stable-blue" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Automation-Active-purple" /></a>
 
 ---
 
-# 🎯 Goals
+## 🌐 Connect With Me
 
-- Build scalable AI-powered products  
-- Master DevOps for AI systems  
-- Create real-world intelligent platforms  
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kasun-kumara-30baaa338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kasunkumarakrk@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- 💼 LinkedIn: (add your link)
+- 🌍 Portfolio: (add your site)
+- 📧 Email: (add your email)
 
 ---
 
 <div align="center">
-
-⚡ **"I build intelligent systems — from model to deployment."**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7E3ACE&height=120&section=footer"/>
 </div>
