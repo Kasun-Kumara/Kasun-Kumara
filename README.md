@@ -1,24 +1,18 @@
 <div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-  <img width="100%" alt="header" src="https://user-images.githubusercontent.com/74038190/212284087-5f8a66e0-6e45-4a70-b7e1-06e66a7c0b0f.gif">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<div align="center">
+<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-# KASUN KUMARA
-
-### `AI Engineer` • `DevOps Engineer` • `Full Stack Developer`
-
-<p>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Engineer;DevOps+%26+Cloud+Systems;Next.js+Full+Stack+Apps;AI+Powered+Products;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Kasun-Kumara&color=blueviolet&style=flat-square&label=Profile+Views"/>
-
-</div>
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
 
 # 🧠 About Me
 
