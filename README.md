@@ -1,10 +1,14 @@
+<div id="top"></div>
+
+<div align="center">
+  <img width="100%" alt="header" src="https://user-images.githubusercontent.com/74038190/212284087-5f8a66e0-6e45-4a70-b7e1-06e66a7c0b0f.gif">
+</div>
+
 <div align="center">
 
 # KASUN KUMARA
 
 ### `AI Engineer` • `DevOps Engineer` • `Full Stack Developer`
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-5f8a66e0-6e45-4a70-b7e1-06e66a7c0b0f.gif" width="600">
 
 <p>
 <a href="https://git.io/typing-svg">
@@ -15,10 +19,6 @@
 <img src="https://komarev.com/ghpvc/?username=Kasun-Kumara&color=blueviolet&style=flat-square&label=Profile+Views"/>
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🧠 About Me
 
