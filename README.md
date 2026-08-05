@@ -1,4 +1,7 @@
-                                                                                                                         
+<h1>Hi there 👋</h1>
+
+<pre>
++                                                                                                                         
                                                                                                                          
                      .  ...   .                  &                                                                       
         .                     .                 : & &;&&&                                                                
@@ -64,3 +67,33 @@
  .xX$$xX$XXXXXXXX$$$$$$X$$$$$$$$$$XxXXxXXXXxXXXXXXXXXXxXX$XXx&&&$&XXXXX$$$X$$$$$X$X$$X$$$$xXXx+xxXxX$+XxX$Xx$+x;:x::&&   
   .::;; ...............:...:::::::.....................:..::.;;+ x ;::;;;;:;;;::::::::::::.;.. ...                  +  + 
                                                                                                                          
+
+</pre>
+
+<pre>
++kasun@github ------------------------------------------------------------
+. OS:............................. Windows
+. Uptime:......................... [your uptime]
+. Host:........................... [your device or city]
+. Kernel:......................... [your role]
+. IDE:............................ VS Code, [your other IDE]
+
+. Languages.Programming:.......... [Python, JavaScript, Java, C++]
+. Languages.Computer:............. [HTML, CSS, SQL, Git]
+. Languages.Real:................. [English, Sinhala]
+
+. Hobbies.Software:............... [your software hobbies]
+. Hobbies.Hardware:............... [your hardware hobbies]
+
+- Contact ---------------------------------------------------------------
+. Email.Personal:................. [your email]
+. LinkedIn:....................... [your LinkedIn username]
+. Discord:........................ [your Discord username]
+
+- GitHub Stats -----------------------------------------------------------
+. Repos:.......................... [your repositories]
+. Commits:........................ [your commits]
+. Followers:...................... [your followers]
+. Stars:.......................... [your stars]
+
+</pre>
